@@ -352,7 +352,7 @@
 
     <remove-project name="platform/tools/asuite"/>
 
-    <!-- LAST: Add/Replace repos and particular directories needed by TWRP -->
-    <include name="twrp-extras.xml"/>
+    <!-- LAST: Add/Replace repos and particular directories needed by PitchBlack -->
+    <include name="pbrp-extras.xml"/>
 
 </manifest>
